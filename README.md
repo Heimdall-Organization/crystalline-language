@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://doi.org/10.13140/RG.2.2.31655.00169"><img src="https://img.shields.io/badge/Paper-ResearchGate-00CCBB?style=for-the-badge" alt="Paper"/></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-Apache 2.0-blue?style=for-the-badge" alt="License"/></a>
-  <a href="https://github.com/Heimdall-Organization/crystalline-language/stargazers"><img src="https://github.com/Heimdall-Organization/crystalline-language?style=for-the-badge" alt="Stars"/></a>
+  <a href="https://github.com/Heimdall-Organization/crystalline-language/stargazers"><img src="https://img.shields.io/github/stars/Heimdall-Organization/crystalline-language?style=for-the-badge" alt="Stars"/></a>
 </p>
 
 <p align="center">
